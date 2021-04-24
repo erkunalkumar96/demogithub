@@ -1,1 +1,2 @@
 <h1>hello this is gitignore</h1>
+<h2>hello this is gitignore</h2>
